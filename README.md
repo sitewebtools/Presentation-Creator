@@ -63,6 +63,18 @@ All materials are provided for learning, experimentation, and reference.
 
 ---
 
+## Guides & Tutorials
+
+This repository includes a collection of practical tutorials on AI‑assisted presentation creation, covering methods, tool comparisons, and template best practices.
+
+- [How Can I Make a Presentation with AI? – A Practical Summary](content-types/article/how-can-i-make-a-presentation-with-ai.md)
+- [The Best Free AI Presentation Makers in 2026 – And What “Free” Actually Gets You](content-types/article/best-free-ai-presentation-makers-2026.md)
+- [The Best Places to Download Free PowerPoint Templates (Sorted by What You Actually Need)](content-types/article/best-places-to-download-free-powerpoint-templates.md)
+- [You’re Probably Using PPT Templates Wrong](content-types/article/youre-probably-using-ppt-templates-wrong.md)
+- [The Best AI Presentation Maker in 2026 – And Why Most People Pick the Wrong One](content-types/article/the-best-ai-presentation-maker-in-2026.md)
+
+---
+
 ## License
 
 MIT License
