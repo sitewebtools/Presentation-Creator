@@ -76,6 +76,16 @@ This repository includes a collection of practical tutorials on AI‑assisted pr
 - [AI PowerPoint Generator for Sales Decks](content-types/article/ai-powerpoint-generator-for-sales-decks.md)
 - [Best Free AI Presentation Maker for Students in 2026](content-types/article/best-free-ai-presentation-maker-for-students.md)
 - [Free AI Presentation Maker Without Login: Top Tools](content-types/article/free-ai-presentation-maker-without-login.md)
+- [What Is the Best AI Presentation Maker? – I Ran the Same Pitch Deck Through 9 Tools to Find Out](content-types/article/what-is-the-best-ai-presentation-maker.md)
+- [Best AI Presentation Maker for Google Slides Users – A Practical Summary](content-types/article/google-slides-ai-comparison.md)
+- [I Tested 14 AI Presentation Makers in 2026 – A Practical Summary](content-types/article/i-tested-14-ai-presentation-makers-2026.md)
+- [I Wasted Three Weeks Testing AI Presentation Tools – So You Don’t Have To](content-types/article/i-wasted-three-weeks-testing-ai-presentation-tools.md)
+- [Generate Slides from Text – A Practical Guide Using an AI PPT Generator](content-types/article/generate-slides-from-text-using-ai-ppt-generator.md)
+- [How Freelancers Use AI PPT Makers to Win Clients – A Practical Summary](content-types/article/how-freelancers-use-ai-ppt-makers-to-win-clients.md)
+- [Convert PDF to PPT for Free – A Practical Guide Without Adobe Acrobat](content-types/article/convert-pdf-to-ppt-free-guide.md)
+- [Top 11 Best AI Tools for Generating Slide Decks – No Watermark](content-types/article/top-11-best-ai-slide-deck-generators.md)
+- [Top 15 Websites for Creative Presentation Making (2026) – A Practical Summary](content-types/article/top-15-websites-creative-presentation-making.md)
+- [120+ Funny PowerPoint Night Ideas for Friends – A Practical Summary](content-types/article/funny-powerpoint-night-ideas.md) 
 
 ---
 
