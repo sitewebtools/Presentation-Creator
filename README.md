@@ -1,6 +1,6 @@
 # AiPPT – Presentation Creator Resource Library
 
-AiPPT is a presentation creation project that explores how artificial intelligence can assist with structuring ideas, organizing content, and designing presentation-ready outlines.
+[AiPPT](http://www.aippt.com/) is a presentation creation project that explores how artificial intelligence can assist with structuring ideas, organizing content, and designing presentation-ready outlines.
 
 This repository serves as an **open knowledge base and prompt library** for building professional presentations across business, academic, and creative scenarios.
 
@@ -72,6 +72,10 @@ This repository includes a collection of practical tutorials on AI‑assisted pr
 - [The Best Places to Download Free PowerPoint Templates (Sorted by What You Actually Need)](content-types/article/best-places-to-download-free-powerpoint-templates.md)
 - [You’re Probably Using PPT Templates Wrong](content-types/article/youre-probably-using-ppt-templates-wrong.md)
 - [The Best AI Presentation Maker in 2026 – And Why Most People Pick the Wrong One](content-types/article/the-best-ai-presentation-maker-in-2026.md)
+- [Best AI PowerPoint Maker in 2026 – Top Tools Compared for Speed and Quality](content-types/article/best-ai-powerpoint-maker-in-2026.md)
+- [AI PowerPoint Generator for Sales Decks](content-types/article/ai-powerpoint-generator-for-sales-decks.md)
+- [Best Free AI Presentation Maker for Students in 2026](content-types/article/best-free-ai-presentation-maker-for-students.md)
+- [Free AI Presentation Maker Without Login: Top Tools](content-types/article/free-ai-presentation-maker-without-login.md)
 
 ---
 
