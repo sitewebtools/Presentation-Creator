@@ -86,6 +86,16 @@ This repository includes a collection of practical tutorials on AI‑assisted pr
 - [Top 11 Best AI Tools for Generating Slide Decks – No Watermark](content-types/article/top-11-best-ai-slide-deck-generators.md)
 - [Top 15 Websites for Creative Presentation Making (2026) – A Practical Summary](content-types/article/top-15-websites-creative-presentation-making.md)
 - [120+ Funny PowerPoint Night Ideas for Friends – A Practical Summary](content-types/article/funny-powerpoint-night-ideas.md) 
+- [Top 12 Best Interactive Presentation Tools in 2026 – Full Article on Blogger](https://aippt-maker.blogspot.com/2026/04/reviews-top-12-best-interactive.html)
+- [Top 11 PowerPoint Alternative Software in 2026 – A Practical Summary](https://aippt-maker.blogspot.com/2026/04/top-11-powerpoint-alternative-software.html)
+- [The 11 Best AI Presentation Makers for 2026 – A Practical Summary](content-types/article/the-11-best-ai-presentation-makers-2026.md)
+- [Top 100 Seminar Topics for Students, Teachers & Tech – A Practical Summary](content-types/article/top-100-seminar-topics-2026.md)
+- [100 Unique Topics for Presentation in College – A Practical Summary](https://aippt.livejournal.com/850.html)
+- **[How to Introduce Yourself in a Presentation as a Student – Step-by-Step Guide](https://aippt.livejournal.com/1078.html)** – Learn how to craft a confident self-introduction slide with real examples and tips.
+- [50+ Funny Presentation Topic Ideas for Your Next Talk – A Practical Summary](content-types/article/50-funny-presentation-topic-ideas.md) (Originally published on [Telegraph](https://telegra.ph/50-Funny-Presentation-Topic-Ideas-for-Your-Next-Talk-04-02))
+- [Top 100 Technical Topics for Presentation in 2026 – A Practical Summary](content-types/article/top-100-technical-topics-2026.md) (Originally published on [Telegraph](https://telegra.ph/Top-100-Technical-Topics-for-Presentation-for-2026-04-02))
+- [100+ Easy Topics for Presentation | Free PPT Templates – A Practical Summary](content-types/article/100-easy-topics-for-presentation.md) (Originally published on [Telegraph](https://telegra.ph/100-Easy-Topics-for-Presentation--Free-PPT-Templates-04-02))
+- [What is Jam Topics? 100+ One Minute Speech Topics List – A Practical Summary](content-types/article/jam-topics-one-minute-speech.md) (Originally published on [Telegraph](https://telegra.ph/What-is-Jam-Topics--100--One-Minute-Speech-Topics-List-04-02))
 
 ---
 
